@@ -1,4 +1,5 @@
-package ru.gb.jseminar;
+package java_dz_2;
+
 import java.util.ArrayList;
 import netscape.javascript.JSObject;
 
